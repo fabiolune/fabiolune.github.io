@@ -15,7 +15,7 @@
 
 ### Technical director - Deltatre spa (2012 - )
 
-During the past 8+ years I started with the role of senior Developer, then Tech Lead, Technical Product Owner and finally Technical Director.
+During the past 9+ years I started with the role of senior Developer, then Tech Lead, Technical Product Owner and finally Technical Director.
 
 Key responsibilities:
 * design complex event driven, highly scalable software architectures
