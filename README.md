@@ -9,30 +9,38 @@
 
 ***
 
-> I am passionate about technology with several years of experience in end to end solutions bringing high value to clients and end users with focus on performances, security and costs.
+> I am passionate about technology with several years of experience in end to end solutions focusing on bringing high value to clients and end users with special attention to performances, scalability, security and costs.
 
-## Career history
+# Education and training
 
-### Technical director - Deltatre spa (2012 - )
+## PhD in Theoretical physics
+_Turin University_, 2001-2005
 
-During the past 9+ years I started with the role of senior Developer, then Tech Lead, Technical Product Owner and finally Technical Director.
+## Master's degree in Physics
+_Turin University_, 1996-2001
+
+# Career history
+
+## Technical director/Cloud architect - Deltatre spa (2012 - )
+
+During the last 10 years I worked with the role of senior Developer, then Tech Lead, Technical Product Owner and finally Technical Director.
 
 Key responsibilities:
-* design complex event driven, highly scalable software architectures
+* design complex event driven, highly scalable cloud software architectures
 * lead a team of highly skilled engineers working in XP, providing guidance and context, and ensuring best practices adoption
 * lead transition to fully kubernetes/microservices oriented architecture
 
 Main technology stack adopted:
-* Azure cloud
-* .net
-* Golang
-* kubernetes
-* docker
-* NoSQL and in memory stores
-* NodeJS
-* Serverless
-* functional and OOP programming
 * TDD and DDD
+* Kubernetes
+* Docker
+* .net
+* functional and OOP programming
+* NoSQL and in memory stores
+* nodeJS
+* Azure cloud
+* Serverless
+* Golang
 
 Main Projects:
 * _BeIN Connect_
@@ -40,9 +48,9 @@ Main Projects:
 * _Fox sports NL_
 * _Fox Soccer Match Pass_
 * _FINA TV_
-* many consultancies to provide technical orientation for big clients projects (_Discovery Golf TV_, _Direct TV_, _Liberty Global_, _Juventus Pass_,  ...)
+* many consultancies to provide technical orientation for big clients projects (_Olympics Broadcasting System_, _NHK Olympics_, _Discovery Golf TV_, _Direct TV_, _Liberty Global_, _Juventus Pass_,  ...)
 
-### Project Lead - E-Mentor srl (2010 - 2012)
+## Project Lead - E-Mentor srl (2010 - 2012)
 
 E-Mentor is a small company focusing on highly customized e-learning platform solutions.
 
@@ -58,9 +66,9 @@ Main technology stack:
 * Javascript
 * SQL
 
-### Project Lead - Must srl (2008 - 2010)
+## Project Lead - Must srl (2008 - 2010)
 
-MUST is a small company focusing on the production od e-learning technology and methodology.
+MUST is a small company focusing on the production of e-learning products.
 
 Key responsibilities:
 * Instructional design
@@ -72,16 +80,17 @@ Main technology stack:
 * Javascript
 * SQL
 
-<div style="page-break-after: always;"></div>
+# Languages
 
-## Education and training
+* Italian - mother tongue
+* English - fluent
+* (Brazilian) Portugues - fluent
+* French - advanced
 
-- Google cloud technologies course (2020)
--  Azure cloud technologies course (2018)
-- Agile methodologies course (2016)
-- PhD in theoretical physics, University of Turin (2005)
-- Degree in Physics, 110/110 magna cum laude and honourable mention, University of Turin (2001)
+# Personal interests
 
-## Personal interests
+In my personal life I am a proud father, I like traveling and reading. 
 
-In my personal life I am a proud father, I like traveling and reading. In my free time I maintain some personal projects for playing around with new technologies.
+I am a Capoeira (almost-)master, with 20+ years of experience.
+
+In my free time I maintain some personal projects and play around with new technologies.
