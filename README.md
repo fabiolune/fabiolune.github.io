@@ -9,7 +9,7 @@
 
 ***
 
-> I am passionate about technology with several years of experience in end to end solutions focusing on bringing high value to clients and end users with special attention to performances, scalability, security and costs.
+> I am passionate about technology with several years of experience in end-to-end solutions focusing on bringing high value to clients and end users with special attention to performance, scalability, security, and costs.
 
 # Education and training
 
@@ -23,12 +23,14 @@ _Turin University_, 1996-2001
 
 ## Technical director/Cloud architect - Deltatre spa (2012 - )
 
-During the last 10 years I worked with the role of senior Developer, then Tech Lead, Technical Product Owner and finally Technical Director.
+During the last 10 years, I worked in the role of senior Developer, then Tech Lead, Technical Product Owner, and finally Technical Director.
 
 Key responsibilities:
-* design complex event driven, highly scalable cloud software architectures
+* design complex event-driven, highly scalable cloud software architectures
 * lead a team of highly skilled engineers working in XP, providing guidance and context, and ensuring best practices adoption
 * lead transition to fully kubernetes/microservices oriented architecture
+* promote and ensure the adoption of coding, security, and DevOps best practices
+* set team goals and support their achievement
 
 Main technology stack adopted:
 * TDD and DDD
@@ -93,4 +95,4 @@ In my personal life I am a proud father, I like traveling and reading.
 
 I am a Capoeira (almost-)master, with 20+ years of experience.
 
-In my free time I like reading and I maintain some personal projects to play around with new technologies.
+In my free time, I like reading and I maintain some personal projects to play around with new technologies.
