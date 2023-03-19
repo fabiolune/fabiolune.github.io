@@ -38,7 +38,7 @@ Main technology stack adopted:
 * functional and OOP programming
 * NoSQL and in memory stores
 * nodeJS
-* Azure cloud
+* Azure and AWS cloud
 * Serverless
 * Golang
 
@@ -93,4 +93,4 @@ In my personal life I am a proud father, I like traveling and reading.
 
 I am a Capoeira (almost-)master, with 20+ years of experience.
 
-In my free time I maintain some personal projects and play around with new technologies.
+In my free time I like reading and I maintain some personal projects to play around with new technologies.
