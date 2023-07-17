@@ -6,7 +6,6 @@
 <p><em>Linkedin profile:</em> <a href="https://www.linkedin.com/in/fabio-lonegro-phd-9493278/">fabio lonegro</a></p>
 </center>
 
-
 ***
 
 > I am passionate about technology with several years of experience in end-to-end solutions focusing on bringing high value to clients and end users with special attention to performance, scalability, security, and costs.
@@ -14,9 +13,11 @@
 # Education and training
 
 ## PhD in Theoretical physics
+
 _Turin University_, 2001-2005
 
 ## Master's degree in Physics
+
 _Turin University_, 1996-2001
 
 # Career history
@@ -26,13 +27,15 @@ _Turin University_, 1996-2001
 During the last 10 years, I worked in the role of senior Developer, then Tech Lead, Technical Product Owner, and finally Technical Director.
 
 Key responsibilities:
+
 * design complex event-driven, highly scalable cloud software architectures
+* promote and ensure the adoption of coding, security, and DevOps best practices
 * lead a team of highly skilled engineers working in XP, providing guidance and context, and ensuring best practices adoption
 * lead transition to fully kubernetes/microservices oriented architecture
-* promote and ensure the adoption of coding, security, and DevOps best practices
 * set team goals and support their achievement
 
 Main technology stack adopted:
+
 * TDD and DDD
 * Kubernetes
 * Docker
@@ -45,6 +48,7 @@ Main technology stack adopted:
 * Golang
 
 Main Projects:
+
 * _BeIN Connect_
 * _NFL Game Pass_
 * _Fox sports NL_
@@ -57,12 +61,14 @@ Main Projects:
 E-Mentor is a small company focusing on highly customized e-learning platform solutions.
 
 Key responsibilities:
+
 * drive the innovation change (more structured software development life cycle)
 * best practices adoption
 * assets standardization
 * provide solutions for huge data sets analysis and processing
 
 Main technology stack:
+
 * PHP
 * Java
 * Javascript
@@ -73,10 +79,12 @@ Main technology stack:
 MUST is a small company focusing on the production of e-learning products.
 
 Key responsibilities:
+
 * Instructional design
-* Delevopment of assessment modules
+* Development of assessment modules
 
 Main technology stack:
+
 * PHP
 * Java
 * Javascript
@@ -86,12 +94,12 @@ Main technology stack:
 
 * Italian - mother tongue
 * English - fluent
-* (Brazilian) Portugues - fluent
+* (Brazilian) Portuguese - fluent
 * French - advanced
 
 # Personal interests
 
-In my personal life I am a proud father, I like traveling and reading. 
+In my personal life I am a proud father, I like traveling and reading.
 
 I am a Capoeira (almost-)master, with 20+ years of experience.
 
