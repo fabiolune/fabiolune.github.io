@@ -5,12 +5,10 @@
     <img src="./images/me.png" style="border-radius: 37%;border: 3px solid #666;box-shadow: 0px 0px 10px #666; margin-right: 20px;" width="100"/>
   </div>
   <div>
-
-📧 Email: [fabiolune@gmail.com](mailto:fabiolune@gmail.com)
-📞 Phone: (+39) 340-5414594
-🌐 LinkedIn: [fabio lonegro](https://www.linkedin.com/in/fabio-lonegro-phd-9493278)
-🌐 GitHub: [fabiolune](https://github.com/fabiolune)
-  
+    📧 Email: <a href="mailto:fabiolune@gmail.com">fabiolune@gmail.com</a><br>
+    📞 Phone: <a href="callto://+39 3405414594">+39 3405414594</a><br>
+    🌐 LinkedIn: <a href="https://www.linkedin.com/in/fabio-lonegro-phd-9493278">fabio lonegro</a><br>
+    🌐 GitHub: <a href="https://github.com/fabiolune"fabiolune>fabiolune</a>
   </div>
 </div>
 
