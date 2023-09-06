@@ -14,8 +14,6 @@
 
 > I have a deep-seated enthusiasm for technology and a track record of several years in crafting comprehensive solutions. My primary goal is to deliver substantial value to clients and end users, with a particular focus on enhancing performance, ensuring scalability, fortifying security, and managing costs efficiently.
 
-***
-
 ## Professional experience
 
 ### Technical Director/Cloud architect - Deltatre spa (2012 - )
