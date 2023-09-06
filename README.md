@@ -1,5 +1,5 @@
 <center>
-<img src="me.png" width="100"/>
+<img src="./images/me.png" width="100"/>
 <p style="font-size: 36px"><strong>Fabio Lonegro</strong></p>
 <p><em>email address:</em> <a href="mailto:fabiolune@gmail.com">fabiolune@gmail.com</a></p>
 <p><em>phone number:</em>  +39 340 5414594</p>
