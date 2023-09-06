@@ -8,25 +8,15 @@
 
 ***
 
-> I am passionate about technology with several years of experience in end-to-end solutions focusing on bringing high value to clients and end users with special attention to performance, scalability, security, and costs.
-
-# Education and training
-
-## PhD in Theoretical physics
-
-_Turin University_, 2001-2005
-
-## Master's degree in Physics
-
-_Turin University_, 1996-2001
+> I have a deep-seated enthusiasm for technology and a track record of several years in crafting comprehensive solutions. My primary goal is to deliver substantial value to clients and end users, with a particular focus on enhancing performance, ensuring scalability, fortifying security, and managing costs efficiently.
 
 # Career history
 
-## Technical director/Cloud architect - Deltatre spa (2012 - )
+## Technical Director/Cloud architect - Deltatre spa (2012 - )
 
 During the last 10 years, I worked in the role of senior Developer, then Tech Lead, Technical Product Owner, and finally Technical Director.
 
-Key responsibilities:
+### Key responsibilities
 
 * design complex event-driven, highly scalable cloud software architectures
 * promote and ensure the adoption of coding, security, and DevOps best practices
@@ -34,7 +24,7 @@ Key responsibilities:
 * lead transition to fully kubernetes/microservices oriented architecture
 * set team goals and support their achievement
 
-Main technology stack adopted:
+### Main technology stack
 
 * TDD and DDD
 * Kubernetes
@@ -47,7 +37,7 @@ Main technology stack adopted:
 * Serverless
 * Golang
 
-Main Projects:
+### Main Projects
 
 * _BeIN Connect_
 * _NFL Game Pass_
@@ -56,39 +46,66 @@ Main Projects:
 * _FINA TV_
 * many consultancies to provide technical orientation for big clients projects (_Olympics Broadcasting System_, _NHK Olympics_, _Discovery Golf TV_, _Direct TV_, _Liberty Global_, _Juventus Pass_,  ...)
 
+In my role as a technical guide for OTT (Over-The-Top) solutions, I have been responsible for providing comprehensive guidance across all facets of OTT technology. This encompassed a range of critical responsibilities, including:
+
+* __Strategic Consultation__: Advising clients on OTT strategies tailored to their specific needs and objectives. This involved understanding their target audience, content delivery requirements, and business goals.
+
+* __Content Delivery Optimization__: Implementing and fine-tuning OTT delivery mechanisms to ensure seamless streaming experiences for end users. This included optimizing content delivery networks (CDNs), adaptive streaming protocols, and Quality of Service (QoS) parameters.
+
+* __Scalability Planning__: Assessing and planning for the scalability needs of OTT platforms to accommodate increasing user demands. This entailed evaluating server infrastructure, load balancing, and auto-scaling solutions.
+
+* __Security Measures__: Ensuring robust security protocols were in place to protect against content piracy, unauthorized access, and data breaches. Implementing DRM (Digital Rights Management) solutions and encryption methods were integral parts of this aspect.
+
+* __Cost Management__: Developing cost-effective strategies to balance the demands of high-quality streaming with cost control. This included optimizing server usage, bandwidth allocation, and resource allocation.
+
+* __User Experience Enhancement__: Collaborating with UX/UI teams to enhance the user interface and overall experience of OTT platforms, striving for user-friendliness and viewer engagement.
+
+* __Analytics and Performance Monitoring__: Implementing tools and methodologies to track user behavior, assess platform performance, and gather valuable data for further refinement and decision-making.
+
+* __Subscription and Payment Integration__: Collaborating closely with payment service providers and subscription management platforms to seamlessly integrate payment gateways, billing cycles, and subscription models into OTT solutions. Ensuring a frictionless user experience for subscription sign-ups, renewals, and payment processing while maintaining data security and compliance with relevant regulations.
+
+***
+
 ## Project Lead - E-Mentor srl (2010 - 2012)
 
 E-Mentor is a small company focusing on highly customized e-learning platform solutions.
 
-Key responsibilities:
+### Key responsibilities
 
 * drive the innovation change (more structured software development life cycle)
 * best practices adoption
 * assets standardization
 * provide solutions for huge data sets analysis and processing
 
-Main technology stack:
+### Main technology stack
 
 * PHP
 * Java
 * Javascript
 * SQL
+
+***
 
 ## Project Lead - Must srl (2008 - 2010)
 
 MUST is a small company focusing on the production of e-learning products.
 
-Key responsibilities:
+### Key responsibilities
 
 * Instructional design
 * Development of assessment modules
 
-Main technology stack:
+### Main technology stack
 
 * PHP
 * Java
 * Javascript
 * SQL
+
+# Education and training
+
+* PhD in Theoretical physics: _Turin University_, 2001-2005
+* Master's degree in Physics: _Turin University_, 1996-2001
 
 # Languages
 
@@ -103,4 +120,4 @@ In my personal life I am a proud father, I like traveling and reading.
 
 I am a Capoeira (almost-)master, with 20+ years of experience.
 
-In my free time, I like reading and I maintain some personal projects to play around with new technologies.
+During my off-hours, I find pleasure in reading and actively work on personal projects that allow me to experiment with and delve into emerging technologies.
