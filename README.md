@@ -1,6 +1,6 @@
 # Fabio Lonegro
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; border: 1px">
+<div style="display: grid; grid-template-columns: 1fr 1fr; margin-bottom: 15px;">
   <div style="text-align: right;">
     <img src="./images/me.png" style="border-radius: 37%;border: 3px solid #666;box-shadow: 0px 0px 10px #666; margin-right: 20px;" width="100"/>
   </div>
