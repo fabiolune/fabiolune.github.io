@@ -9,7 +9,6 @@ jobs:
         mkdir out
         docker run \
           --rm \
-          -v "$(pwd)/out:/workspace" \
           pink33n/html-to-pdf \
           --url https://fabiolune.github.io/ \
           --pdf fabio_lonegro-resume.pdf \
