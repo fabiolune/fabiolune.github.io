@@ -4,11 +4,11 @@
   <div style="text-align: right;">
     <img src="./images/me.png" style="border-radius: 37%;border: 3px solid #666;box-shadow: 0px 0px 10px #666; margin-right: 20px;" width="100"/>
   </div>
-  <div>
-    📧 Email: <a href="mailto:fabiolune@gmail.com">fabiolune@gmail.com</a><br>
-    📞 Phone: <a href="callto://+39 3405414594">+39 3405414594</a><br>
-    🌐 LinkedIn: <a href="https://www.linkedin.com/in/fabio-lonegro-phd-9493278">fabio lonegro</a><br>
-    🌐 GitHub: <a href="https://github.com/fabiolune">fabiolune</a>
+  <div style="border-left: 1px solid; padding-left: 20px;">
+      email: <a href="mailto:fabiolune@gmail.com">fabiolune@gmail.com</a><br>
+      phone: <a href="tel:+393405414594">+39 340-5414594</a><br>
+      linkedIn: <a href="https://www.linkedin.com/in/fabio-lonegro-phd-9493278">fabio lonegro</a><br>
+      github: <a href="https://github.com/fabiolune">fabiolune</a>
   </div>
 </div>
 
