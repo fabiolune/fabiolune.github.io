@@ -9,10 +9,12 @@ jobs:
         mkdir out
         docker run \
           --rm \
+          -v "$(pwd)/out:/workspace" \
           pink33n/html-to-pdf \
           --url https://fabiolune.github.io/ \
           --pdf fabio_lonegro-resume.pdf \
-          --include-background
+          --include-background || exit 0
+        ls -Al out
     - uses: actions/upload-artifact@v3
       with:
         name: resume
