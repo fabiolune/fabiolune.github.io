@@ -18,7 +18,7 @@
 
 ### Technical Director/Cloud architect - Deltatre spa (2012 - )
 
-During the last 10 years, I worked in the role of senior Developer, then Tech Lead, Technical Product Owner, and finally Technical Director.
+During the last 12 years, I worked in the role of senior Developer, then Tech Lead, Technical Product Owner, and finally Technical Director.
 
 #### Key responsibilities
 
