@@ -16,7 +16,7 @@
 
 ## Professional experience
 
-### Technical Director/Cloud architect - Deltatre spa (2012 - )
+### Technical Director/Cloud architect - Deltatre Spa (2012 - )
 
 During the last 12 years, I worked in the role of senior Developer, then Tech Lead, Technical Product Owner, and finally Technical Director.
 
@@ -34,8 +34,8 @@ During the last 12 years, I worked in the role of senior Developer, then Tech Le
 * Kubernetes
 * Docker
 * .net
-* functional and OOP programming
-* NoSQL and in memory stores
+* Functional and OOP programming
+* NoSQL and in-memory stores
 * nodeJS
 * Azure and AWS cloud
 * Serverless
@@ -45,10 +45,11 @@ During the last 12 years, I worked in the role of senior Developer, then Tech Le
 
 * _BeIN Connect_
 * _NFL Game Pass_
-* _Fox sports NL_
+* _Fox Sports NL_
 * _Fox Soccer Match Pass_
 * _FINA TV_
-* many consultancies to provide technical orientation for big clients projects (_Olympics Broadcasting System_, _NHK Olympics_, _Discovery Golf TV_, _Direct TV_, _Liberty Global_, _Juventus Pass_,  ...)
+* many consultancies to provide technical orientation for big client projects (_Olympics Broadcasting System_, _NHK Olympics_, _Discovery Golf TV_, _Direct TV_, _Liberty Global_, _Juventus Pass_,  ...)
+* Paris 2024 OCS games time website
 
 In my role as a technical guide for OTT (Over-The-Top) solutions, I have been responsible for providing comprehensive guidance across all facets of OTT technology. This encompassed a range of critical responsibilities, including:
 
@@ -118,10 +119,17 @@ MUST is a small company focusing on the production of e-learning products.
 * (Brazilian) Portuguese - fluent
 * French - advanced
 
+## Personal projects
+
+Here are some personal projects:
+
+* Logic engine, [repository](https://github.com/fabiolune/logic-engine) and [documentation](https://fabiolune.github.io/logic-engine/)
+* Functional Redis, [repository](https://github.com/fabiolune/func-redis) and [documentation](https://fabiolune.github.io/func-redis/)
+
 ## Personal interests
 
-In my personal life I am a proud father, I like traveling and reading.
+In my personal life, I am a proud father, I like traveling and reading.
 
 I am a Capoeira (almost-)master, with 20+ years of experience.
 
-During my off-hours, I find pleasure in reading and actively work on personal projects that allow me to experiment with and delve into emerging technologies.
+During my off-hours, I find pleasure in reading and actively working on personal projects that allow me to experiment with and delve into emerging technologies.
